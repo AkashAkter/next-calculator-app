@@ -1,26 +1,37 @@
 # Calculator App - Next.js
 
-This is a simple Calculator app built with [Next.js](https://nextjs.org). The app allows users to perform basic arithmetic calculations like addition, subtraction, multiplication, and division.
+This is a simple Calculator app built with [Next.js](https://nextjs.org) for performing basic arithmetic operations.
 
-### Live Site
-
-You can view the live version of the Calculator app here: [Calculator App](https://calculator-using-next.netlify.app/)
+Live Site: [Calculator App](https://calculator-using-next.netlify.app/)
 
 ## Features
 
-- **Simple and responsive UI**: An intuitive and easy-to-use interface for performing calculations.
-- **Basic arithmetic operations**: Addition, subtraction, multiplication, and division.
-- **Real-time updates**: See results immediately as you input numbers and operators.
+- Simple, responsive UI
+- Basic operations: +, -, \*, /
+- Real-time updates
 
 ## Getting Started
 
-To run the app locally, follow the steps below:
+1. Clone the repository:
+   git clone <repository_url>
+2. Install dependencies:
+   npm install
+   # or yarn install / pnpm install / bun install
+3. Run the development server:
+   npm run dev
+   # or yarn dev / pnpm dev / bun dev
+4. Open [http://localhost:3000](http://localhost:3000) to view the app.
 
-### 1. Clone the repository
+## Technologies Used
 
-```bash
-git clone <repository_url>
+- Next.js
+- TypeScript
+- CSS Modules
 
-### 1. Install Dependencies
-Navigate to the project directory and install the required dependencies:
-```
+## Contributing
+
+Contributions are welcome! Open an issue or submit a pull request.
+
+## Deploy on Netlify
+
+This app is deployed on [Netlify](https://www.netlify.com) for easy deployment of Next.js apps.
