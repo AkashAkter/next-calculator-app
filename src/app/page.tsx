@@ -43,7 +43,6 @@ export default function Home() {
           />
         </div>
 
-        {/* Buttons */}
         <div className="grid grid-cols-4 gap-4">
           <button
             onClick={() => handleButtonClick("7")}
