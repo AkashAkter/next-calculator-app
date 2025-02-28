@@ -31,7 +31,6 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-700 via-indigo-600 to-purple-800">
       <div className="bg-gradient-to-r from-blue-800 to-purple-900 p-10 rounded-3xl shadow-2xl w-80">
-        {/* Display */}
         <div className="text-white text-3xl mb-6">
           <input
             type="text"
