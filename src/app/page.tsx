@@ -16,7 +16,7 @@ export default function Home() {
     setInput("");
   };
 
-  //this function calculates the input and adds the result to the history
+  //function calculates the input and adds the result to the history
   const handleCalculate = () => {
     try {
       const result = eval(input);
