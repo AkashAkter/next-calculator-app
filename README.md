@@ -1,6 +1,6 @@
 # Calculator App - Next.js
 
-This is a simple Calculator app built with [Next.js](https://nextjs.org) for performing basic arithmetic operations.
+This is a Calculator app built with [Next.js](https://nextjs.org) for performing basic arithmetic operations.
 
 Live Site: [Calculator App](https://calculator-using-next.netlify.app/)
 
