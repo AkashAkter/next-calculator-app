@@ -22,7 +22,7 @@ export default function Home() {
       setHistory([`${input} = ${result}`, ...history]);
       setInput(result.toString());
       setIsCalculating(true);
-      setTimeout(() => setIsCalculating(false), 2000); // Reset calculating state after 2 seconds
+      setTimeout(() => setIsCalculating(false), 2000);
     } catch (error) {
       setInput("Error");
     }
